@@ -1,5 +1,6 @@
 # TinTinLand课程作业  
-[课程链接](https://www.youtube.com/playlist?list=PLCv99tqIzSwk25zjcb9tJo9RX2anLfPsN)
+[课程介绍](https://attractive-spade-1e3.notion.site/3c55c15d535c43f7a236183af40cf76b)
+[视频链接](https://www.youtube.com/playlist?list=PLCv99tqIzSwk25zjcb9tJo9RX2anLfPsN)
 
 # 第一课  区块链101
 后续补充
