@@ -23,7 +23,9 @@
 当一个订单交易完成或被撤单后，其中信息清零。  
 
 # 第三课  
-[第三课作业](https://wj.qq.com/s2/15368767/0g3d/)
+[第三课作业](https://wj.qq.com/s2/15368767/0g3d/)  
+[参考答案](https://github.com/linghuccc/tintinland_ethereum/tree/main/task3/src)  
+wethV2:自定义异常  ammV3：自定义异常  ammV2:?
 ## task3-1 实现weth  
 实现一个 WETH，将 ETH 包装成 ERC20
 
